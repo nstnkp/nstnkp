@@ -1,4 +1,4 @@
-### ❤️Hi, I'm Nastya❤️
+### Hi, I'm Nastya
 
 #### A beginner programmer, I am interested in many languages. There are developments in various areas of programming. I love designing projects on Windows Form, WPF. At the moment I am studying at the College of Business and Law.
 
